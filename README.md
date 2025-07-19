@@ -1,22 +1,22 @@
 
-CODTECH-Task2
-Name: Parth Rajendra Medhekar
-Company: CODTECH IT SOLUTIONS
-ID: CT08GAI
-Domain: Data Science
-Duration: 05 January 2025 to 05 February 2025
+CODTECH-Task2   
+Name: Parth Rajendra Medhekar    
+Company: CODTECH IT SOLUTIONS    
+ID: CT08GAI     
+Domain: Data Science   
+Duration: 05 January 2025 to 05 February 2025    
 
-Project Title:
-Predictive Modelling with Linear Regression using Advertising Expenditure dataset
+Project Title:   
+Predictive Modelling with Linear Regression using Advertising Expenditure dataset    
 
 Objective:
-The main objective of this project is to perform Predictive Modelling using Linear Regression. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.
+The main objective of this project is to perform Predictive Modelling using Linear Regression. The goal is to developed a Linear Regression model to predict sales based on advertising spending across three channels: TV, Radio, and Newspaper. The aim was to understand how different advertising mediums influence sales and build a predictive model for sales optimization.   
 
-Key Activities:
-Data Cleaning
+Key Activities:  
+Data Cleaning      
 
 Ensured the dataset was free of inconsistencies, handled missing values, and standardized the format of the data. This step was crucial for making sure the data was reliable and ready for analysis.
-Model Development
+Model Development     
 
 Split the dataset into training and testing subsets to evaluate the model's performance. Trained the Linear Regression model on the training data and validated it on the testing data to ensure accurate predictions.
 Performance Evaluation
